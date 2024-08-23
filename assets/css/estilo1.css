@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(183, 0, 255)
+}
+main{
+    background-color: blanchedalmond;
+}
+footer{
+    background-color: blueviolet;
+}
+#div1{
+    background-color: rgb(22, 2, 2);
+}
+#div2{
+    background-color: brown;
+}
+nav{
+    background-color: rgb(255, 196, 196);
+    text-align: right;
+}
+#img{
+    background-color: aliceblue;
+}

@@ -1,11 +1,11 @@
 header{
-    background-color: rgb(255, 255, 255)
+    background-color: #a52a2a
 }
 main{
 
 }
 footer{
-    background-color: blueviolet;
+    background-color: #a52a2a;
 }
 #div1{
     background-color: rgb(22, 2, 2);
@@ -33,7 +33,7 @@ nav a{
     text-decoration: none;
 }
 #sesion1{
-    background-color:blue ;
+    background-color:rgba(0, 0, 255, 0.226) ;
     padding-bottom: 20px;
 }
 #cajitaBlanca{
@@ -86,4 +86,35 @@ nav a{
     margin: auto;
     background-color: green;
     border: solid 1px green;
+}
+.tarjeta{
+    background-color: #a52a2a;
+    text-align: center;
+    padding: 10px 4px;
+    width: 24%;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+.tarjeta p{
+    text-align: left;
+}
+.tarjeta button{
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+    padding: 0px 10px;
+}
+.tarjeta img{
+    height: 200px;
+    border-radius: 20px;
+}
+.contenedorTarjeta{
+    display: inline;
+}
+.contenedor{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px
 }

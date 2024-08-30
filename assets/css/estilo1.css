@@ -116,5 +116,33 @@ nav a{
 .contenedor{
     background-color: rgb(255, 255, 255);
     text-align: center;
-    padding: 20px
+    padding: 50px
+}
+.tarjeta2{
+    background-color: #a52a2a;
+    text-align: center;
+    padding: 1px 1px;
+    width:  300px;
+    height: 300px;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 1px;
+}
+.contenedorTarjeta2{
+    display: inline;
+}
+.contenedor2{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5px;
+}
+.tarjeta2 img, .flecha{
+    height: 200px;
+    border-radius: 20%;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+}
+.tarjetaflechas{
+    
 }
